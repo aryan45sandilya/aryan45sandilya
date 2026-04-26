@@ -13,8 +13,7 @@
 * Currently building real-world projects to apply concepts practically
 * Interested in backend development and system design
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
+📧 Email: aryan45sandilya@gmail.com
 ---
 
 ## ⚙️ What I Work With
