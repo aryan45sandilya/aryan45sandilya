@@ -53,10 +53,15 @@
 
 ## 🚀 Featured Projects
 
-* 🔹 Project 1 – (Add your best project here)
-* 🔹 Project 2 – (System-based project)
-* 🔹 Project 3 – (DSA / tool / real-world project)
+- 🔹 [EventHub](https://github.com/aryan45sandilya/EventHub)  
+  → Full-stack event management platform for organizing and managing events  
+  → Tech: Flask, MySQL, HTML/CSS  
+  → Features: Event creation, user interaction, and backend data handling  
 
+- 🔹 [EmergencyLink](https://github.com/aryan45sandilya/EmergencyLink)  
+  → Web application connecting volunteers with emergency responders during disasters  
+  → Tech: Flask, SQLite  
+  → Features: Request management, coordination system, real-time assistance flow  
 ---
 
 ## 📈 Current Focus
