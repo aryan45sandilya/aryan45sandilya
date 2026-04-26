@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aryan45sandilya/aryan45sandilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Aspiring Software Engineer  
+- Strong in C++ and Data Structures & Algorithms  
+- Interested in backend development and system design  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: C++, Python  
+- Core: DSA, OOP  
+- Tools: Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On
+- Improving problem-solving skills  
+- Building real-world projects  
+
+## 📫 Connect with Me
+- LinkedIn: (add later)
