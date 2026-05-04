@@ -1,114 +1,88 @@
 # Aryan Sandilya
 
-### 💻 CSE Student | Backend Focus | DSA Practitioner
+<h3 align="center">Backend-Focused Developer | DSA Practitioner | Building Real Systems</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&lines=Building+Real+World+Projects;Practicing+DSA+Daily;Backend+Enthusiast)
-
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science student focused on strong fundamentals  
-- 💡 Skilled in C++, Python, and Data Structures & Algorithms  
-- 🚀 Building real-world backend projects using Flask & databases  
-- 📈 Consistently improving problem-solving and system design  
-
-📧 **Email:** aryan45sandilya@gmail.com  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Designing+Backend+Systems;Solving+DSA+Problems;Building+Real-World+Projects" />
+</p>
 
 ---
 
-## ⚙️ Core Skills
+## 🧠 Profile Snapshot
 
-- Data Structures & Algorithms  
-- Problem Solving  
-- Backend Development (Basics)  
-- Object-Oriented Programming  
+- 🎓 CSE Student with focus on **problem-solving + backend engineering**
+- ⚙️ Strong in **C++, Python, and core DSA concepts**
+- 🚀 Building **real-world systems** using Flask & databases
+- 📈 Improving **consistency, code quality, and system thinking**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-important?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-blueviolet?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,flask,mysql,sqlite,git,github" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects That Matter
 
-### 🔹 EventHub  
-📌 Full-stack event management platform  
-- Tech: Flask, MySQL, HTML/CSS  
-- Features:
-  - Event creation & management  
-  - User interaction system  
-  - Backend data handling  
+### 🔷 EventHub — Event Management System
+> A backend-driven platform for managing and organizing events
+
+- Designed database-backed event workflows  
+- Implemented user interaction + data handling  
+- Focus on structured backend logic  
 
 🔗 https://github.com/aryan45sandilya/EventHub  
 
 ---
 
-### 🔹 EmergencyLink  
-📌 Disaster-response coordination system  
-- Tech: Flask, SQLite  
-- Features:
-  - Request handling system  
-  - Volunteer coordination  
-  - Real-time response flow  
+### 🔷 EmergencyLink — Disaster Coordination Platform
+> Connecting volunteers with emergency responders
+
+- Built request-handling workflow system  
+- Structured coordination between users  
+- Focus on real-time problem scenarios  
 
 🔗 https://github.com/aryan45sandilya/EmergencyLink  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan45sandilya&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan45sandilya&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aryan45sandilya&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan45sandilya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan45sandilya&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## ⚡ What I’m Working On
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryan45sandilya&theme=tokyo-night)
-
----
-
-## ⚡ Contribution Highlights
-
-- 🔥 Regularly solving DSA problems  
-- 🚀 Building backend-focused real-world applications  
-- 📈 Maintaining consistent GitHub commits  
-- 🧠 Actively learning system design concepts  
+- Strengthening **Data Structures & Algorithms**
+- Building **backend-heavy applications**
+- Learning **system design fundamentals**
+- Improving **code structure & scalability thinking**
 
 ---
 
-## 🎯 Current Focus
+## 🎯 2026 Goals
 
-- Strengthening DSA for placements  
-- Building scalable backend systems  
-- Learning system design fundamentals  
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/aryan45sandilya  
-- LinkedIn: https://www.linkedin.com/in/aryan-sandilya-291b282a2/  
+- 🚀 Build 2–3 **production-level backend projects**
+- 🧠 Master core **DSA patterns**
+- ⚙️ Learn **API design + system architecture**
+- 📈 Maintain consistent GitHub activity
 
 ---
 
-⭐ *Consistent growth > occasional motivation*
+## 🌐 Connect
+
+- GitHub → https://github.com/aryan45sandilya  
+- LinkedIn → https://www.linkedin.com/in/aryan-sandilya-291b282a2/  
+
+---
+
+<p align="center">
+⭐ Building skills > chasing trends
+</p>
