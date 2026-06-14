@@ -1,4 +1,4 @@
-# Aryan Sandilya
+# ARYAN SANDILYA
 
 <h1 align="center">Hi 👋, I'm Aryan Sandilya</h1>
 <h3 align="center">Backend-Focused Developer | DSA Practitioner | Building Real Systems</h3>
