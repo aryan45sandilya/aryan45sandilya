@@ -95,9 +95,9 @@ while(!success) {
 
 # 📫 Reach Me
 
-- 📧 Email: your-email@example.com
+- 📧 Email: aryan45sandilya@gmail.com
 - 🌐 GitHub: https://github.com/aryan45sandilya
-- 💼 LinkedIn: https://www.linkedin.com/in/aryan-sandilya-291b282a2/
+- 💼 LinkedIn: https://www.linkedin.com/in/aryan-sandilya-
 
 ---
 
