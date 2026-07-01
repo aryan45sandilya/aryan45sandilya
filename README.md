@@ -34,7 +34,6 @@
 - 🎓 CSE Student passionate about **Backend Engineering & Problem Solving**
 - ⚙️ Strong foundation in **C++, Python, DBMS & Core DSA**
 - 🚀 Building **real-world backend-focused applications**
-- 📚 Exploring **API Design, Scalability & System Architecture**
 - 📈 Consistently improving **development & problem-solving skills**
 
 ---
