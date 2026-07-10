@@ -1,1 +1,865 @@
+<div align="center">
 
+# Aryan Sandilya
+
+### Software Engineer • Full Stack Developer • AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things"/>
+
+<br>
+
+<a href="https://aryansandilya.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-sandilya-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aryan45sandilya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=aryan45sandilya&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/aryan45sandilya?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/aryan45sandilya?affiliations=OWNER&style=for-the-badge)
+
+</div>
+
+---
+
+# 👋 About Me
+
+Hi! I'm **Aryan Sandilya**, a Computer Science Engineering student at **SRM Institute of Science and Technology** passionate about building scalable software solutions and AI-powered applications.
+
+My interests include:
+
+- Backend Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Cloud Computing
+
+I enjoy solving real-world problems by developing modern web applications with clean architecture, scalable APIs, and intuitive user experiences.
+
+---
+
+## 🚀 Highlights
+
+- 🎓 B.Tech CSE @ SRM IST
+- 💼 Software Engineering Intern @ CRIS (Ministry of Railways)
+- 🚆 Creator of RailHack
+- 🤖 Built AI Interview Platform
+- 🌐 Full Stack Developer
+- 📚 DSA Enthusiast
+- 🧠 Exploring Deep Learning
+- ☁️ Learning AWS
+
+---
+
+# 🌟 Current Focus
+
+✔ Backend Engineering
+
+✔ Machine Learning
+
+✔ Distributed Systems
+
+✔ Open Source
+
+✔ System Design
+
+✔ AI Applications
+
+---
+
+# 💡 Developer Philosophy
+
+> "Build software that is scalable, maintainable, secure, and meaningful."
+
+---
+# ⚡ Tech Stack
+
+<div align="center">
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+## Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+</p>
+
+</div>
+
+---
+
+# 🏗 Engineering Stack
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+
+- REST APIs
+- Authentication & Authorization
+- JWT
+- Express.js
+- FastAPI
+- Flask
+- API Security
+- MVC Architecture
+- CRUD Applications
+- File Upload Systems
+
+</td>
+
+<td width="50%">
+
+### Frontend Engineering
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Responsive Design
+- Framer Motion
+- Modern UI
+- API Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤖 Artificial Intelligence
+
+<table>
+<tr>
+<td width="50%">
+
+### Machine Learning
+
+- Supervised Learning
+- Classification
+- Regression
+- Model Evaluation
+- Feature Engineering
+
+</td>
+
+<td width="50%">
+
+### Libraries
+
+- NumPy
+- Pandas
+- Scikit-Learn
+- XGBoost
+- Matplotlib
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 Technical Expertise
+
+| Technology | Level |
+|------------|-------|
+| C++ | ████████████████████ |
+| Java | ██████████████████ |
+| Python | ██████████████████ |
+| JavaScript | █████████████████ |
+| TypeScript | ███████████████ |
+| React | █████████████████ |
+| Next.js | ████████████████ |
+| Node.js | █████████████████ |
+| Express.js | ████████████████ |
+| FastAPI | ██████████████ |
+| SQL | █████████████████ |
+| MongoDB | ███████████████ |
+| Machine Learning | ███████████████ |
+| Git & GitHub | ███████████████████ |
+
+---
+
+# 📚 Currently Learning
+
+```text
+███████████████████░░  Machine Learning
+
+█████████████████░░░░  Deep Learning
+
+████████████████░░░░░  System Design
+
+███████████████░░░░░░  Docker
+
+█████████████░░░░░░░░  Kubernetes
+
+████████████░░░░░░░░░  AWS Cloud
+```
+
+---
+
+# 🧠 Areas of Interest
+
+```text
+✔ Backend Development
+
+✔ Full Stack Engineering
+
+✔ Artificial Intelligence
+
+✔ Machine Learning
+
+✔ Distributed Systems
+
+✔ REST API Design
+
+✔ Database Optimization
+
+✔ Cloud Computing
+
+✔ Open Source
+
+✔ Scalable Applications
+```
+
+---
+
+# 🏛 Software Engineering Principles
+
+- Clean Code
+- SOLID Principles
+- Scalable Architecture
+- Reusable Components
+- Secure Authentication
+- RESTful API Design
+- Performance Optimization
+- Maintainable Codebase
+- Version Control
+- Continuous Learning
+
+---
+
+# 🚀 Development Workflow
+
+```text
+Requirement Analysis
+        │
+        ▼
+System Design
+        │
+        ▼
+Database Design
+        │
+        ▼
+Backend Development
+        │
+        ▼
+Frontend Development
+        │
+        ▼
+Testing
+        │
+        ▼
+Deployment
+        │
+        ▼
+Maintenance
+```
+
+---
+# 🚀 Featured Projects
+
+---
+
+## 🚆 RailHack — AI Railway Waitlist Prediction System
+
+> AI-powered waitlist confirmation prediction platform inspired by Indian Railways reservation system.
+
+<p align="left">
+
+<a href="https://rail-hack.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+### 📌 Overview
+
+RailHack predicts the probability of Indian Railway waitlist ticket confirmation using Machine Learning models trained on historical reservation patterns.
+
+It combines an intuitive railway-inspired UI with a scalable FastAPI backend to deliver real-time prediction results.
+
+---
+
+### 🏗 Architecture
+
+```text
+React + Vite
+      │
+      ▼
+ FastAPI REST API
+      │
+      ▼
+ ML Prediction Engine
+      │
+      ▼
+ XGBoost Model
+```
+
+---
+
+### ⚙ Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Frontend | React, Vite, Tailwind CSS |
+| Backend | FastAPI |
+| ML | XGBoost, Scikit-Learn |
+| Language | Python |
+| Deployment | Vercel |
+
+---
+
+### ✨ Highlights
+
+- AI Prediction Engine
+- FastAPI Backend
+- Railway Inspired UI
+- Responsive Design
+- REST API
+- Production Deployment
+
+---
+
+## 🤖 InterviewAI — AI Mock Interview Platform
+
+> Practice technical interviews with AI-powered question generation and intelligent feedback.
+
+<p>
+
+<a href="https://interviewai-platform-new.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+### 📌 Overview
+
+InterviewAI helps students prepare for software engineering interviews through AI-generated questions, interactive sessions, and performance evaluation.
+
+---
+
+### Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Frontend | Next.js |
+| Backend | Node.js |
+| Styling | Tailwind CSS |
+| Language | TypeScript |
+| Deployment | Vercel |
+
+---
+
+### Features
+
+- AI Interview Sessions
+- Technical Questions
+- User Authentication
+- Dashboard
+- Responsive UI
+
+---
+
+## 📚 LectureHop — Smart Learning Platform
+
+> A centralized platform for students to access and share educational resources.
+
+<p>
+
+<a href="https://lecture-hop.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-6D28D9?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+### Features
+
+- Smart Resource Sharing
+- Notes Management
+- Responsive Design
+- Fast Navigation
+- Modern UI
+
+---
+
+### Tech Stack
+
+Next.js • TypeScript • PostgreSQL • Tailwind CSS
+
+---
+
+## 🌐 Personal Portfolio
+
+> Modern developer portfolio showcasing projects, experience and technical expertise.
+
+<p>
+
+<a href="https://aryansandilya.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-6D28D9?style=for-the-badge"/>
+</a>
+
+</p>
+
+### Highlights
+
+- Responsive Design
+- Animated UI
+- Project Showcase
+- Skills Section
+- Contact Form
+
+---
+
+## 🛰 CRIS Internship
+
+### Software Engineering Intern
+
+**Centre for Railway Information Systems**
+
+**Ministry of Railways, Government of India**
+
+Worked on **GIS Interfaces using REST APIs and JSON** while gaining exposure to enterprise software development and government-scale IT systems.
+
+### Responsibilities
+
+- REST APIs
+- JSON Processing
+- GIS Integration
+- Enterprise Development
+- Software Engineering
+
+---
+
+## 🎟 EventHub
+
+### Full Stack Event Management Platform
+
+A web platform for managing events, registrations, organizers, and attendees using secure authentication and scalable backend architecture.
+
+### Features
+
+- Event Booking
+- Authentication
+- Dashboard
+- REST APIs
+- Database Integration
+
+---
+
+## 🍛 Champaran Jayka
+
+Restaurant website developed for improving digital presence with a modern interface, optimized menu display, and responsive customer experience.
+
+### Features
+
+- Responsive Website
+- Interactive Menu
+- Modern UI
+- Business Branding
+
+---
+
+# 📊 Project Summary
+
+| Project | Domain | Status |
+|---------|--------|--------|
+| 🚆 RailHack | AI + Machine Learning | ✅ Live |
+| 🤖 InterviewAI | Artificial Intelligence | ✅ Live |
+| 📚 LectureHop | Education Technology | ✅ Live |
+| 🌐 Portfolio | Personal Branding | ✅ Live |
+| 🛰 CRIS Internship | Enterprise Software | ✅ Completed |
+| 🎟 EventHub | Full Stack Development | 🚧 Active |
+| 🍛 Champaran Jayka | Business Website | ✅ Completed |
+
+---
+
+# 💡 Engineering Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Backend Development
+Full Stack Engineering
+REST APIs
+System Design
+Cloud Computing
+Database Design
+Software Architecture
+Developer Tools
+```
+
+---
+
+# 🎯 Project Philosophy
+
+> Every project I build is focused on solving a real-world problem through scalable architecture, clean code, and user-centric design. I enjoy transforming ideas into reliable software by combining strong engineering principles with practical implementation.
+
+---
+# 💼 Professional Experience
+
+<div align="center">
+
+## Software Engineering Intern
+
+### Centre for Railway Information Systems (CRIS)
+
+**Ministry of Railways, Government of India**
+
+📅 **May 2025 – June 2025**
+
+</div>
+
+Worked on **GIS Interfaces using REST APIs and JSON** while gaining practical exposure to enterprise-scale software systems supporting Indian Railways.
+
+### Responsibilities
+
+- Developed REST API integrations for GIS applications.
+- Worked extensively with JSON data structures.
+- Assisted in enterprise software workflows.
+- Followed software engineering best practices.
+- Collaborated with experienced developers in a government IT environment.
+- Learned large-scale system architecture and deployment concepts.
+
+---
+
+# 🏗 Experience Timeline
+
+```text
+2023
+│
+├── Started B.Tech in Computer Science Engineering
+│
+2024
+│
+├── Full Stack Development
+├── Data Structures & Algorithms
+├── AI & Machine Learning
+│
+2025
+│
+├── Software Engineering Internship @ CRIS
+├── RailHack
+├── InterviewAI
+├── LectureHop
+├── Portfolio Website
+│
+2026 →
+│
+└── Software Engineering Internships
+    Open Source
+    AI Engineering
+    Backend Engineering
+```
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 🚆 RailHack | Developed an AI-powered railway waitlist prediction platform |
+| 🤖 InterviewAI | Built an AI-based interview preparation platform |
+| 🛰 CRIS Internship | Successfully completed Software Engineering Internship |
+| 🌐 Portfolio | Designed and deployed a modern developer portfolio |
+| 💻 Full Stack | Built and deployed multiple production-ready web applications |
+
+</div>
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Java%20Programming-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Introduction%20to%20Generative%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Currently%20Learning-AWS-orange?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/System%20Design-Learning-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 👨‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Aryann_Sandilya/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/aryansandilya">
+<img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryan45sandilya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan45sandilya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aryan45sandilya&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryan45sandilya&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📈 Developer Snapshot
+
+| Category | Focus |
+|-----------|-------|
+| 💻 Primary Domain | Backend Engineering |
+| 🌐 Secondary Domain | Full Stack Development |
+| 🤖 AI/ML | Machine Learning & AI Applications |
+| 🏗 Architecture | REST APIs & Scalable Systems |
+| ☁️ Cloud | AWS (Learning), Vercel, Render |
+| 🗄 Databases | PostgreSQL, MySQL, MongoDB |
+
+---
+
+# 🎯 Career Objective
+
+I aspire to become a software engineer who builds scalable products powered by clean architecture, efficient backend systems, and practical AI solutions. My goal is to contribute to impactful engineering teams while continuously learning and growing through challenging projects and open-source collaboration.
+
+---
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryan45sandilya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=C084FC"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/aryan45sandilya/aryan45sandilya/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/aryan45sandilya/aryan45sandilya/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/aryan45sandilya/aryan45sandilya/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# 📅 Current Focus
+
+```yaml
+learning:
+  - Advanced Data Structures & Algorithms
+  - Machine Learning
+  - Deep Learning
+  - System Design
+  - Cloud Computing (AWS)
+
+building:
+  - AI Powered Applications
+  - Backend Services
+  - Full Stack Products
+  - Open Source Projects
+
+exploring:
+  - Docker
+  - Kubernetes
+  - Microservices
+  - Distributed Systems
+  - Large Language Models
+
+open_to:
+  - Software Engineering Internships
+  - Backend Development
+  - Full Stack Development
+  - AI / ML Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+# 🎯 2026 Roadmap
+
+```text
+Backend Engineering      ████████████████████ 100%
+
+Data Structures          ██████████████████░ 90%
+
+Machine Learning         ████████████████░░░ 80%
+
+Deep Learning            ████████████░░░░░░░ 60%
+
+System Design            ███████████░░░░░░░░ 55%
+
+Cloud Computing          █████████░░░░░░░░░░ 45%
+
+Kubernetes               ██████░░░░░░░░░░░░░ 30%
+```
+
+---
+
+# 🌍 Open Source Goals
+
+- 🚀 Contribute to impactful open-source projects
+- 📚 Share technical knowledge with the developer community
+- 🧩 Build reusable developer tools
+- 🤝 Collaborate with engineers across the world
+- 💡 Learn from real-world software systems
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+> **"Code is not just written to make software work, it's written to make software last."**
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://aryansandilya.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aryan45sandilya">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-sandilya-">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:aryan45sandilya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Thanks for Visiting!
+
+If you enjoy my work, consider ⭐ starring my repositories and connecting with me. I'm always open to learning, collaborating, and building impactful software.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
+
+</div>
