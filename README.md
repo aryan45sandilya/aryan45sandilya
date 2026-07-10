@@ -122,7 +122,7 @@ I enjoy solving real-world problems by developing modern web applications with c
 ## Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
 </p>
 
 ## Tools
@@ -132,79 +132,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 </p>
 
 </div>
-
----
-
-# 🏗 Engineering Stack
-
-<table>
-<tr>
-<td width="50%">
-
-### Backend Engineering
-
-- REST APIs
-- Authentication & Authorization
-- JWT
-- Express.js
-- FastAPI
-- Flask
-- API Security
-- MVC Architecture
-- CRUD Applications
-- File Upload Systems
-
-</td>
-
-<td width="50%">
-
-### Frontend Engineering
-
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Responsive Design
-- Framer Motion
-- Modern UI
-- API Integration
-
-</td>
-</tr>
-</table>
-
----
-
-# 🤖 Artificial Intelligence
-
-<table>
-<tr>
-<td width="50%">
-
-### Machine Learning
-
-- Supervised Learning
-- Classification
-- Regression
-- Model Evaluation
-- Feature Engineering
-
-</td>
-
-<td width="50%">
-
-### Libraries
-
-- NumPy
-- Pandas
-- Scikit-Learn
-- XGBoost
-- Matplotlib
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 📊 Technical Expertise
@@ -268,52 +195,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 ✔ Open Source
 
 ✔ Scalable Applications
-```
-
----
-
-# 🏛 Software Engineering Principles
-
-- Clean Code
-- SOLID Principles
-- Scalable Architecture
-- Reusable Components
-- Secure Authentication
-- RESTful API Design
-- Performance Optimization
-- Maintainable Codebase
-- Version Control
-- Continuous Learning
-
----
-
-# 🚀 Development Workflow
-
-```text
-Requirement Analysis
-        │
-        ▼
-System Design
-        │
-        ▼
-Database Design
-        │
-        ▼
-Backend Development
-        │
-        ▼
-Frontend Development
-        │
-        ▼
-Testing
-        │
-        ▼
-Deployment
-        │
-        ▼
-Maintenance
-```
-
 ---
 # 🚀 Featured Projects
 
@@ -334,30 +215,6 @@ Maintenance
 </a>
 
 </p>
-
-### 📌 Overview
-
-RailHack predicts the probability of Indian Railway waitlist ticket confirmation using Machine Learning models trained on historical reservation patterns.
-
-It combines an intuitive railway-inspired UI with a scalable FastAPI backend to deliver real-time prediction results.
-
----
-
-### 🏗 Architecture
-
-```text
-React + Vite
-      │
-      ▼
- FastAPI REST API
-      │
-      ▼
- ML Prediction Engine
-      │
-      ▼
- XGBoost Model
-```
-
 ---
 
 ### ⚙ Tech Stack
@@ -369,18 +226,6 @@ React + Vite
 | ML | XGBoost, Scikit-Learn |
 | Language | Python |
 | Deployment | Vercel |
-
----
-
-### ✨ Highlights
-
-- AI Prediction Engine
-- FastAPI Backend
-- Railway Inspired UI
-- Responsive Design
-- REST API
-- Production Deployment
-
 ---
 
 ## 🤖 InterviewAI — AI Mock Interview Platform
@@ -398,13 +243,6 @@ React + Vite
 </a>
 
 </p>
-
-### 📌 Overview
-
-InterviewAI helps students prepare for software engineering interviews through AI-generated questions, interactive sessions, and performance evaluation.
-
----
-
 ### Tech Stack
 
 | Category | Technology |
@@ -414,17 +252,6 @@ InterviewAI helps students prepare for software engineering interviews through A
 | Styling | Tailwind CSS |
 | Language | TypeScript |
 | Deployment | Vercel |
-
----
-
-### Features
-
-- AI Interview Sessions
-- Technical Questions
-- User Authentication
-- Dashboard
-- Responsive UI
-
 ---
 
 ## 📚 LectureHop — Smart Learning Platform
@@ -442,17 +269,6 @@ InterviewAI helps students prepare for software engineering interviews through A
 </a>
 
 </p>
-
-### Features
-
-- Smart Resource Sharing
-- Notes Management
-- Responsive Design
-- Fast Navigation
-- Modern UI
-
----
-
 ### Tech Stack
 
 Next.js • TypeScript • PostgreSQL • Tailwind CSS
@@ -470,15 +286,6 @@ Next.js • TypeScript • PostgreSQL • Tailwind CSS
 </a>
 
 </p>
-
-### Highlights
-
-- Responsive Design
-- Animated UI
-- Project Showcase
-- Skills Section
-- Contact Form
-
 ---
 
 ## 🛰 CRIS Internship
@@ -695,30 +502,6 @@ Worked on **GIS Interfaces using REST APIs and JSON** while gaining practical ex
 </div>
 
 ---
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryan45sandilya&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Developer Snapshot
-
-| Category | Focus |
-|-----------|-------|
-| 💻 Primary Domain | Backend Engineering |
-| 🌐 Secondary Domain | Full Stack Development |
-| 🤖 AI/ML | Machine Learning & AI Applications |
-| 🏗 Architecture | REST APIs & Scalable Systems |
-| ☁️ Cloud | AWS (Learning), Vercel, Render |
-| 🗄 Databases | PostgreSQL, MySQL, MongoDB |
-
----
-
 # 🎯 Career Objective
 
 I aspire to become a software engineer who builds scalable products powered by clean architecture, efficient backend systems, and practical AI solutions. My goal is to contribute to impactful engineering teams while continuously learning and growing through challenging projects and open-source collaboration.
