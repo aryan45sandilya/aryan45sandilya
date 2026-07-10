@@ -1,11 +1,14 @@
-<div align="center">
+<p align="center">
 
-# Aryan Sandilya
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=ARYAN+SANDILYA"/>
 
-### Software Engineer • Full Stack Developer • AI & Machine Learning Enthusiast
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things"/>
+<p align="center">
 
+## Software Engineer • Full Stack Developer • AI & Machine Learning Enthusiast
+
+</p>
 <br>
 
 <a href="https://aryansandilya.vercel.app">
