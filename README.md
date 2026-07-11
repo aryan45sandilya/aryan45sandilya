@@ -357,37 +357,6 @@ Worked on **GIS Interfaces using REST APIs and JSON** while gaining practical ex
 - Collaborated with experienced developers in a government IT environment.
 - Learned large-scale system architecture and deployment concepts.
 
----
-
-# 🏗 Experience Timeline
-
-```text
-2023
-│
-├── Started B.Tech in Computer Science Engineering
-│
-2024
-│
-├── Full Stack Development
-├── Data Structures & Algorithms
-├── AI & Machine Learning
-│
-2025
-│
-├── Software Engineering Internship @ CRIS
-├── RailHack
-├── InterviewAI
-├── LectureHop
-├── Portfolio Website
-│
-2026 →
-│
-└── Software Engineering Internships
-    Open Source
-    AI Engineering
-    Backend Engineering
----
-
 # 📜 Certifications
 
 <div align="center">
@@ -509,28 +478,6 @@ open_to:
   - AI / ML Opportunities
   - Open Source Collaboration
 ```
-
----
-
-# 🎯 2026 Roadmap
-
-```text
-Backend Engineering      ████████████████████ 100%
-
-Data Structures          ██████████████████░ 90%
-
-Machine Learning         ████████████████░░░ 80%
-
-Deep Learning            ████████████░░░░░░░ 60%
-
-System Design            ███████████░░░░░░░░ 55%
-
-Cloud Computing          █████████░░░░░░░░░░ 45%
-
-Kubernetes               ██████░░░░░░░░░░░░░ 30%
-```
-
----
 
 # 🌍 Open Source Goals
 
