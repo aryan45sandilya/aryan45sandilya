@@ -430,24 +430,6 @@ Worked on **GIS Interfaces using REST APIs and JSON** while gaining practical ex
     Open Source
     AI Engineering
     Backend Engineering
-```
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement | Description |
-|-------------|-------------|
-| 🚆 RailHack | Developed an AI-powered railway waitlist prediction platform |
-| 🤖 InterviewAI | Built an AI-based interview preparation platform |
-| 🛰 CRIS Internship | Successfully completed Software Engineering Internship |
-| 🌐 Portfolio | Designed and deployed a modern developer portfolio |
-| 💻 Full Stack | Built and deployed multiple production-ready web applications |
-
-</div>
-
 ---
 
 # 📜 Certifications
