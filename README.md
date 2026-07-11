@@ -173,32 +173,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 
 ████████████░░░░░░░░░  AWS Cloud
 ```
-
----
-
-# 🧠 Areas of Interest
-
-```text
-✔ Backend Development
-
-✔ Full Stack Engineering
-
-✔ Artificial Intelligence
-
-✔ Machine Learning
-
-✔ Distributed Systems
-
-✔ REST API Design
-
-✔ Database Optimization
-
-✔ Cloud Computing
-
-✔ Open Source
-
-✔ Scalable Applications
----
 # 🚀 Featured Projects
 
 ---
@@ -351,24 +325,6 @@ Restaurant website developed for improving digital presence with a modern interf
 | 🛰 CRIS Internship | Enterprise Software | ✅ Completed |
 | 🎟 EventHub | Full Stack Development | 🚧 Active |
 | 🍛 Champaran Jayka | Business Website | ✅ Completed |
-
----
-
-# 💡 Engineering Interests
-
-```text
-Artificial Intelligence
-Machine Learning
-Backend Development
-Full Stack Engineering
-REST APIs
-System Design
-Cloud Computing
-Database Design
-Software Architecture
-Developer Tools
-```
-
 ---
 
 # 🎯 Project Philosophy
