@@ -70,23 +70,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 - 📚 DSA Enthusiast
 - 🧠 Exploring Deep Learning
 - ☁️ Learning AWS
-
----
-
-# 🌟 Current Focus
-
-✔ Backend Engineering
-
-✔ Machine Learning
-
-✔ Distributed Systems
-
-✔ Open Source
-
-✔ System Design
-
-✔ AI Applications
-
 ---
 
 # 💡 Developer Philosophy
@@ -155,23 +138,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 | MongoDB | ███████████████ |
 | Machine Learning | ███████████████ |
 | Git & GitHub | ███████████████████ |
-
----
-
-# 📚 Currently Learning
-
-```text
-███████████████████░░  Machine Learning
-
-█████████████████░░░░  Deep Learning
-
-████████████████░░░░░  System Design
-
-███████████████░░░░░░  Docker
-
-█████████████░░░░░░░░  Kubernetes
-
-████████████░░░░░░░░░  AWS Cloud
 ```
 # 🚀 Featured Projects
 
