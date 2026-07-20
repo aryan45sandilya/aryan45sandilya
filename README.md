@@ -11,35 +11,20 @@
 </p>
 <br>
 
-<a href="https://aryansandilya.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aryan45sandilya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aryan-sandilya-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:aryan45sandilya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+<a href="https://aryansandilya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://github.com/aryan45sandilya"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/aryan-sandilya-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>&nbsp;
+<a href="mailto:aryan45sandilya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
+</p>
 
 ---
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=aryan45sandilya&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/aryan45sandilya?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/aryan45sandilya?affiliations=OWNER&style=for-the-badge)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aryan45sandilya&style=flat-square&color=7C3AED" height="28"/>&nbsp;
+<img src="https://img.shields.io/github/followers/aryan45sandilya?style=flat-square&logo=github&color=0EA5E9&labelColor=1a1a1a" height="28"/>&nbsp;
+<img src="https://img.shields.io/github/stars/aryan45sandilya?affiliations=OWNER&style=flat-square&color=F59E0B&labelColor=1a1a1a" height="28"/>
+</p>
 
 ---
 
@@ -84,37 +69,37 @@ I enjoy solving real-world problems by developing modern web applications with c
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css&theme=dark" height="50"/>
 </p>
 
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux&theme=dark" height="50"/>
 </p>
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" height="50"/>
 </p>
 
 ## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" height="50"/>
 </p>
 
 ## Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker&theme=dark" height="50"/>
 </p>
 
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&theme=dark" height="50"/>
 </p>
 
 </div>
@@ -138,7 +123,7 @@ I enjoy solving real-world problems by developing modern web applications with c
 | MongoDB | ███████████████ |
 | Machine Learning | ███████████████ |
 | Git & GitHub | ███████████████████ |
-```
+
 # 🚀 Featured Projects
 
 ---
