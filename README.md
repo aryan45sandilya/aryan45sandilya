@@ -240,31 +240,23 @@ Next.js • TypeScript • PostgreSQL • Tailwind CSS
 
 </p>
 ---
-# 💼 Professional Experience
+## 🛰 CRIS Internship
 
-<div align="center">
+### Software Engineering Intern
 
-## Software Engineering Intern
-
-### Centre for Railway Information Systems (CRIS)
+**Centre for Railway Information Systems**
 
 **Ministry of Railways, Government of India**
 
-📅 **May 2025 – June 2025**
-
-</div>
-
-Worked on **GIS Interfaces using REST APIs and JSON** while gaining practical exposure to enterprise-scale software systems supporting Indian Railways.
+Worked on **GIS Interfaces** using **REST APIs** and **JSON** while gaining exposure to enterprise software development and government-scale IT systems.
 
 ### Responsibilities
 
-- Developed REST API integrations for GIS applications.
-- Worked extensively with JSON data structures.
-- Assisted in enterprise software workflows.
-- Followed software engineering best practices.
-- Collaborated with experienced developers in a government IT environment.
-- Learned large-scale system architecture and deployment concepts.
-
+- REST APIs
+- JSON Processing
+- GIS Integration
+- Enterprise Development
+- Software Engineering
 # 📜 Certifications
 
 <div align="center">
