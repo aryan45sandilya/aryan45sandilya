@@ -423,38 +423,6 @@ src="https://raw.githubusercontent.com/aryan45sandilya/aryan45sandilya/output/gi
 </div>
 
 ---
-
-# 📅 Current Focus
-
-```yaml
-learning:
-  - Advanced Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - System Design
-  - Cloud Computing (AWS)
-
-building:
-  - AI Powered Applications
-  - Backend Services
-  - Full Stack Products
-  - Open Source Projects
-
-exploring:
-  - Docker
-  - Kubernetes
-  - Microservices
-  - Distributed Systems
-  - Large Language Models
-
-open_to:
-  - Software Engineering Internships
-  - Backend Development
-  - Full Stack Development
-  - AI / ML Opportunities
-  - Open Source Collaboration
-```
-
 # 🌍 Open Source Goals
 
 - 🚀 Contribute to impactful open-source projects
