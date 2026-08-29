@@ -49,8 +49,6 @@ I enjoy solving real-world problems by developing modern web applications with c
 
 - 🎓 B.Tech CSE @ SRM IST
 - 💼 Software Engineering Intern @ CRIS (Ministry of Railways)
-- 🚆 Creator of RailHack
-- 🤖 Built AI Interview Platform
 - 🌐 Full Stack Developer
 - 📚 DSA Enthusiast
 - 🧠 Exploring Deep Learning
